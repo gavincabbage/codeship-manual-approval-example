@@ -1,0 +1,1 @@
+# codeship-manual-approval-example
